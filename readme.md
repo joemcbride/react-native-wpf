@@ -57,3 +57,7 @@ npm run bundle
 ## Why
 
 This is a prototype to see if react-native could drive WPF.  This is not production ready and a lot of this code is "spike code".  I am also not a C++ developer so please excuse any atrocities there.  The main purpose was to see if this could be integrated into an existing WPF codebase (for the purpose of eventually moving the entire app to the web).  If you are starting a new desktop project and want to use JavaScript, use something like github's [Electron](http://electron.atom.io/).
+
+## Roadmap
+
+As of right now I have no plans to further this project, though it would be interesting to see how React 0.14 could change things.  As always though, pull requests accepted.
