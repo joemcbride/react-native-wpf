@@ -2,6 +2,8 @@
 
 [2 minute React Native WPF Demo Video](https://www.youtube.com/watch?v=9n5aJfY0ewY)
 
+![](http://i.imgur.com/ZO9MGLu.png)
+
 ## Noted Dependencies
 
 * VS2015
@@ -9,6 +11,7 @@
 * react-native-cli 0.1.4
 * JavaScriptCore (written in C) .NET wrapper (included)
 * CefSharp (alternate for embedded runtime)
+* Caliburn.Micro
 
 ## Getting Started
 
