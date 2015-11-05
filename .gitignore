@@ -1,0 +1,15 @@
+build/
+.vs/
+bin/
+obj/
+Debug/
+Release/
+ipch/
+node_modules/
+packages/
+
+*.sdf
+*.opensdf
+*.suo
+*.user
+*.log
