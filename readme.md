@@ -2,6 +2,8 @@
 
 [2 minute React Native WPF Demo Video](https://www.youtube.com/watch?v=9n5aJfY0ewY)
 
+> UPDATE: The official ReactWindows project now appears to support .NET 4.6.  https://github.com/ReactWindows/react-native-windows/pull/868
+
 ![](http://i.imgur.com/ZO9MGLu.png)
 
 ## Noted Dependencies
